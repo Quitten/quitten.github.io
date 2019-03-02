@@ -8,6 +8,6 @@ Barak Tawily, Application Security Researcher, expirenced within the proffesiona
 
 ### More Information
 
-Author of Autorize plugin for BurpSuite - https://github.com/Quitten/Autorize
+Author of [Autorize](https://github.com/Quitten/Autorize) plugin for BurpSuite
 
 CVES - CVE-2014-1202 CVE-2017-14506 CVE-2017-14506 CVE-2018-6389
