@@ -3,7 +3,7 @@ layout: post
 title: How to DoS 29% of the World Wide Websites - CVE-2018-6389
 ---
 
-According to wordpress.com, the WordPress platform powers 29% of the worldwide internet websites.
+![](https://1.bp.blogspot.com/-TxfjrTsnvxk/WnhCp6kqlEI/AAAAAAAAvr0/LyR43W2z-kQDwswUX7YzCCFjjZayP_4cwCLcBGAs/s728-e100/wordpress-dos-attack-hackingl.png)<br>According to wordpress.com, the WordPress platform powers 29% of the worldwide internet websites.
 
 In this article I am going to explain how Denial of Service can easily be caused to almost any WordPress website online, and how you can patch your WordPress website in order to avoid this vulnerability being exploited.
 
