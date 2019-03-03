@@ -32,4 +32,4 @@ After few times, I succeeded to create a GEM file to exploit XSS, the attack sce
 
   
 PoC video: 
-https://www.youtube.com/watch?v=eFIJL7yMYFA
+[https://www.youtube.com/watch?v=eFIJL7yMYFA](https://www.youtube.com/watch?v=eFIJL7yMYFA)
