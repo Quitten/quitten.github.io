@@ -121,8 +121,7 @@ After ~500 requests, the server didn't respond at all any more, or returned 502/
 
   
 
-Full PoC video:
-https://www.youtube.com/watch?v=nNDsGTalXS0
+[Full PoC video](https://www.youtube.com/watch?v=nNDsGTalXS0)
   
 
   
