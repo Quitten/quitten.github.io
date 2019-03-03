@@ -3,9 +3,8 @@ layout: post
 title: PT Vulnerabilities Manager - burp extension
 ---
 
-Github - [https://github.com/Quitten/PT-Manager](https://github.com/Quitten/PT-Manager)
+[![alt tag](https://raw.githubusercontent.com/Quitten/PT-Manager/master/images/general.png)](https://raw.githubusercontent.com/Quitten/PT-Manager/master/images/general.png)<br>Github - [https://github.com/Quitten/PT-Manager](https://github.com/Quitten/PT-Manager)
 
-[![alt tag](https://raw.githubusercontent.com/Quitten/PT-Manager/master/images/general.png)](https://raw.githubusercontent.com/Quitten/PT-Manager/master/images/general.png)
 
 Installation
 ===========
