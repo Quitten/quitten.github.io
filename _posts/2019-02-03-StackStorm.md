@@ -1,6 +1,7 @@
 ---
 layout: post
-title: StackStorm - From Originull to RCE
+title: 
+[![alt tag](https://raw.githubusercontent.com/Quitten/Autorize/master/Autorizev17.png)](https://raw.githubusercontent.com/Quitten/Autorize/master/Autorizev17.png)StackStorm - From Originull to RCE
 ---
 
 StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more.
