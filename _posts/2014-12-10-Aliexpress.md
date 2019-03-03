@@ -3,7 +3,7 @@ layout: post
 title: AliExpress XSS vulnerability - take over any seller account
 ---
 
-![](https://ae01.alicdn.com/kf/HTB1c3FmKpXXXXblXpXXq6xXFXXX5/-.jpg_640x640.jpg)<br>In this blog post I will discuss a XSS vulnerability I’ve found in AliExpress website.
+<img src="https://ae01.alicdn.com/kf/HTB1c3FmKpXXXXblXpXXq6xXFXXX5/-.jpg_640x640.jpg" height="200" width="200"><br>In this blog post I will discuss a XSS vulnerability I’ve found in AliExpress website.
 
 I discovered this vulnerability while i bought items in the website, i wanted to contact with the seller so i sent him a message. As an application security expert i suspected that the messages system might be vulnerable to XSS so i started investigate it.
 
