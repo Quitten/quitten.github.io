@@ -82,3 +82,5 @@ I don't want to elaborate about how we did it, because we still trying to figure
 
 
 Now all an attacker needs is to send a malicious link to a victim which is authenticated to StackStorm Web UI, thus, allow the attacker take over any server accessible by StackStorm agent as you can see at [the PoC video](https://www.youtube.com/watch?v=KnvWCg2Q7k4)
+
+I contacted with StackStorm team and it is important to note that they did great job and was really cooperative, released the patch a day or two after they were informed (versions 2.9.3 and 2.10.3 are not vulenrable) and published [a blogpost](https://stackstorm.com/2019/03/08/stackstorm-2-9-3-2-10-3/) about the vulenrability.
