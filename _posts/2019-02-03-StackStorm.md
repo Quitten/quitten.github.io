@@ -79,4 +79,4 @@ I was like, not again!!! The browser actually saves the origin context even if w
 I was frustrated and motivated at the same time, and got help from my talented colleague Chen Gur Arie, we managed to bypass this as well, and we got Origin null context from a page loaded in a domain (btw, Flash can do that as well)
 I don't want to elaborate about how we did it, because we still trying to figure out what are the implications of it.
 
-Now all an attacker needs is to send a malicious link to a victim which is authenticated to StackStorm Web UI, thus, allow the attacker take over any server accessible by StackStorm agent as you can see at (the PoC video)[https://www.youtube.com/watch?v=KnvWCg2Q7k4]
+Now all an attacker needs is to send a malicious link to a victim which is authenticated to StackStorm Web UI, thus, allow the attacker take over any server accessible by StackStorm agent as you can see at [the PoC video](https://www.youtube.com/watch?v=KnvWCg2Q7k4)
