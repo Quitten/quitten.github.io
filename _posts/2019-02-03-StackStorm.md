@@ -36,7 +36,7 @@ After we understand why is this happening, let’s understand how can we exploit
 So now the origin “null” have the a “full privileges” to StackStorm REST API, which means, that this origin can fetch requests and read responses on behalf any user that will browse to this “null” origin.
 How can I get null origin? Via data/file scheme as shown in the PDF mentioned above.
 You can run this in your browse and see that you get empty(document.domain=null) alert message:
-```bash
+```javascript
 data:text/html;,<script>alert(document.domain)</script>
 ```
 At the PDF document, they used a meta tag in order to redirect the user to browse this malicious data URL:
