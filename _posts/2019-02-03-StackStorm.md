@@ -76,6 +76,7 @@ So I was sure I done, but then I tried to run it from a web server, and got the 
 <div style="text-align:center"><img src="https://lh5.googleusercontent.com/wyjtRTeOMqk6AtCZ8AWIR8uPXet9us9iRP7S2TeXp1ACU9AGQ_Z2hOlM3r9yFec8tbhgMLWkep9QcNV3JcHrcKnvKMwqHh2CSOmHzlu8V3tY9sSD7-WO8FOhIwQQYgAoODFPDWrY"></div>
 
 I was like, not again!!! The browser actually saves the origin context even if we use javascript, so it was only exploitable via sending a file to the user and make him open it.
+
 I was frustrated and motivated at the same time, and got help from my talented colleague Chen Gur Arie, we managed to bypass this as well, and we got Origin null context from a page loaded in a domain (btw, Flash can do that as well)
 I don't want to elaborate about how we did it, because we still trying to figure out what are the implications of it.
 
