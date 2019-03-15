@@ -10,7 +10,7 @@ In this blogpost I will describe how can you cause RCE on targeted servers which
 So first, lets understand what is StackStorm, StackStorm is a really popular (3K stars on github) devops event-driven automation tool, allows devops to configure actions, workflows, and scheduled tasks, in order to perform some operations on large-scale servers.
 
 Actions will run on behalf remote servers managed by StackStorm agent. Those actions can be anything, from HTTP request to an arbitrary command as you can see in the following image:
-<div style="text-align:center"><img src="https://lh6.googleusercontent.com/cHgBmUQavZ2tfo98YZzGbZtSqCOVZJrsSXiVrbFE3H9PobrckApM4fRx_ce2R1yFX59Dz5bpUlIAQg-Zh0JDQKZuBI4SqleX8uCczQEi"></div>
+<div style="text-align:center"><img src="https://lh6.googleusercontent.com/O8O0lXaIddzBUus6qqf2jnqwCqma72q7-5hbM9ZHv0n2RtzvOE7aRO2Y4X0T7sT0UKZZsc2vGR_uDbohcJUyVEtfk7VV7Wvtr2fWDekSA-tGspa_ZM93w1ge3kGO5GMKMk0LofxF"></div>
 
 Due to the fact that StackStorm agent run those actions on remote servers it will be “blessed” by quite high-privileges. This fact really motivated me to find flaw in it.
 
