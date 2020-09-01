@@ -15,3 +15,6 @@ Author of [Autorize](https://github.com/Quitten/Autorize) plugin for BurpSuite
 * CVE-2017-14506
 * CVE-2017-14506
 * CVE-2018-6389
+* CVE-2019-9580
+* CVE-2019-11730
+* CVE-2020-15391
